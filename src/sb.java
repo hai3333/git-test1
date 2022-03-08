@@ -4,5 +4,6 @@ public class sb {
         System.out.println("GitHub测试2");
         System.out.println("这是第三个 测试版本");
         System.out.println("合并分支");
+        System.out.println("这是master上的合并冲突例子");
     }
 }
