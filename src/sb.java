@@ -3,5 +3,6 @@ public class sb {
         System.out.println("github测试程序");
         System.out.println("GitHub测试2");
         System.out.println("这是第三个 测试版本");
+        System.out.println("合并分支");
     }
 }
